@@ -1,4 +1,4 @@
-# hospital-management-website-
+# hospital-appointment-management-website
 backend for nurse use
 has a call from website feature
 widget to show current number of doctors/patients/nurses
